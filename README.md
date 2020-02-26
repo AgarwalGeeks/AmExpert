@@ -3,23 +3,26 @@ XYZ Credit Card company regularly helps it’s merchants understand their data b
 
 <h2>Main Features:</h2>
 <p>
-  coupon_id
-  rented_mean
-  income_bracket_mean
-  no_of_children
-  date_day_mean
-  date_month_mean
-  coupon_discount_mean
-  other_discount_mean
+  coupon_id</br>
+  rented_mean</br>
+  income_bracket_mean</br>
+  no_of_children</br>
+  date_day_mean</br>
+  date_month_mean</br>
+  coupon_discount_mean</br>
+  other_discount_mean</br>
 </p>
 
 <h2>Model used for final submission: CatBoost</h2>
 <h2>Parameters:</h2>
 <p>
-  loss_function:'CrossEntropy'
-  learning_rate:0.01
-  iterations:10000
-  early_stopping_rounds:250
+  loss_function:'CrossEntropy'</br>
+  learning_rate:0.01</br>
+  iterations:10000</br>
+  early_stopping_rounds:250</br>
 </p>
 <h2>Private LeaderBoard Score: 0.9123</h2>
 <h2>I was among top 200 finalist</h2>
+<h3>Future scope:</h3></br>
+Model Tuning</br>
+More aggregated features
